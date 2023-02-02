@@ -9,7 +9,7 @@ O Ola-mundo é uma aplicação desenvolvido em react, um blog com diversas pági
 
 Um blog que você pode passear por diversos posts.
 
-## Técinicas e tecnologias utilizadas 
+## Técnicas e tecnologias utilizadas 
 
 - `React`
 - `React router-dom`
